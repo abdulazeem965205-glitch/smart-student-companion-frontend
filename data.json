@@ -1,0 +1,8 @@
+{
+  "tasks": [
+    { "subject": "Mathematics", "duration": "45 mins" },
+    { "subject": "Physics", "duration": "30 mins" },
+    { "subject": "DBMS", "duration": "40 mins" }
+  ],
+  "aiAdvice": "Focus on understanding concepts, not memorization."
+}
